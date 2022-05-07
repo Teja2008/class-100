@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(yellow,rgb(98, 98, 226),pink,orange);
+}
+
+
+
+
+
+#camera {
+    width: 360px;
+    height: 250px;
+    border: 1px solid grey;
+}
+
+#logo {
+    width: 150px;
+    border-radius: 100px;
+}
+
+#textbox {
+    width: 300px;
+}
